@@ -1,0 +1,7 @@
+codebook_size: 16
+feature_dimensionality: 128
+aggregation_type: ASMK
+codebook_path: "2020data/roadcar_smallbig_codebook_16/model.ckpt-99"
+num_assignments: 1
+use_regional_aggregation: false
+feature_batch_size: 1

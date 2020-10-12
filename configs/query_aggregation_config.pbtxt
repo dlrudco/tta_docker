@@ -1,0 +1,7 @@
+codebook_size: 1024
+feature_dimensionality: 128
+aggregation_type: VLAD
+codebook_path: "parameters/rparis6k_codebook_1024/k1024_codebook_tfckpt/codebook"
+num_assignments: 1
+use_regional_aggregation: false
+feature_batch_size: 1
