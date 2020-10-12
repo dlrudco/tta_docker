@@ -1,6 +1,6 @@
 import sys
-sys.path.append('/home/ncl/models/research')
-sys.path.append('/home/ncl/models/research/slim')
+sys.path.append('/home/tta/models/research')
+sys.path.append('/home/tta/models/research/slim')
 import feature
 from feature import Compare
 import cv2
