@@ -34,7 +34,7 @@ if gpus:
     # 프로그램 시작시에 메모리 증가가 설정되어야만 합니다
     print(e)
 
-CONFIG_ROOT = "/home/ncl/kclee/sc2020/scdelf/configs/"
+CONFIG_ROOT = "/home/tta/tta_test/configs/"
 
 _DELF_EXTENSION = '.delf'
 _IMAGE_EXTENSION = '.jpg'
