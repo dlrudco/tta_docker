@@ -25,5 +25,7 @@ RUN wget --quiet https://repo.anaconda.com/archive/Anaconda3-2019.07-Linux-x86_6
     echo "conda activate base" >> ~/.bashrc
 
 RUN conda install -y cudatoolkit=10.1 && \
-	python -m pip install tensorflow-gpu"
+	python -m pip install tensorflow-gpu
+
+
 
